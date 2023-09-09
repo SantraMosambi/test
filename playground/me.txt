@@ -1,0 +1,5 @@
+{{#user}}
+Name: Shubhamkar Bhattacharya
+Skills: HTML, CSS, JS, ReactJS, Python, C++, SASS/SCSS, TS, BootStrap, Material-UI
+Email: Shubhamkarb18@gmail.com
+{{/user}}
